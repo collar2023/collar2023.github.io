@@ -24,6 +24,7 @@ description: >- # used by seo meta and the atom feed
 # 如果您的网站托管在根目录
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
+baseurl: "/collar2023/" 
 url: "https://collar2023.github.io"
 
 github:
