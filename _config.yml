@@ -20,7 +20,7 @@ tagline: AI&BLK # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   AI拓展生产力，BLK改变生活。
-
+baseurl: "" # 如果您的网站托管在根目录
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://collar2023.github.io"
